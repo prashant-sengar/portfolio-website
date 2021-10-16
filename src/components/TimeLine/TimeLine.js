@@ -49,7 +49,7 @@ const Timeline = () => {
         Hi There! I am currently working as a <span style={{color:"#F9004D"}}>Software Development Engineer at Amazon</span>. I've completed my <span style={{color:"#F9004D"}}>B.E. in Information Science and Engineering</span> from the National Institute of Engineering, Mysore.
         Being a Mulesoft certified developer, I have previously worked on designing, developing and deploying <span style={{color:"#F9004D"}}>REST APIs</span> using Mulesoft as the underlying technology.
 
-        Apart from my regular job, I work on different backend frameworks like Spring Boot, Django, Flask and frontend frameworks and libraries like React JS, Bootstrap and JQuery, trying to solve real world problems with projects one step at a time.
+        Apart from my regular job, I work on different backend frameworks like Spring Boot, Django, Flask and frontend libraries like React JS, Bootstrap and JQuery along with Android programming, trying to solve real world problems with projects one step at a time.
 
 My interests and core strength include problem solving using <span style={{color:"#F9004D"}}>Data Structures and Algorithms</span> in Java/C++.  
        </SectionText>

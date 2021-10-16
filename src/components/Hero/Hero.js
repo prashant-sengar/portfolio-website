@@ -1,10 +1,9 @@
 import React from 'react';
 import {heroText} from '../../constants/constants';
-import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponents';
+import { Section, SectionText, SectionTitle  } from '../../styles/GlobalComponents';
 import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
 import Link from 'next/link';
-
 const Hero = (props) => (
   <Section row nopadding>
     <LeftSection>

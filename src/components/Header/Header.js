@@ -2,6 +2,7 @@ import Link from 'next/link';
 import React from 'react';
 import { AiFillGithub, AiFillInstagram, AiFillLinkedin, AiFillTwitterCircle } from 'react-icons/ai';
 import { DiCode } from 'react-icons/di';
+import {contacts} from '../../constants/constants'
 
 import { Container, Div1, Div2, Div3, NavLink, SocialIcons,Span } from './HeaderStyles';
 
@@ -32,13 +33,13 @@ const Header = () =>  (
       </li>
     </Div2>
     <Div3>
-      <SocialIcons href="https://github.com/prashant-sengar">
+      <SocialIcons href={contacts.github}>
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://www.linkedin.com/in/code2sengar/">
+      <SocialIcons href={contacts.linkedin}>
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://twitter.com/code2sengar">
+      <SocialIcons href={contacts.twitter}>
         <AiFillTwitterCircle size="3rem" />
       </SocialIcons>
     </Div3>
