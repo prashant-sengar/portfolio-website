@@ -1,7 +1,7 @@
 import React from 'react';
 import {AiFillMediumCircle,AiFillApi,AiFillYoutube, AiOutlineComment} from 'react-icons/ai'
 import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalComponents';
-import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
+import { Box, Boxes, BoxNum, BoxText } from './UpcomingStyles';
 
 
 const Upcoming = () => (
